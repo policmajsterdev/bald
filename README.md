@@ -60,4 +60,4 @@ MIT
 ## Od autora
 To mój pierwszy poważniejszy projekt i niestety nie przywiązywałem wagi do czytelności kodu.
 Ten program nie jest wolny od wad i błędy po stronie TEJ aplikacji mogą wystąpić.
-Twój komputer nie wybuchnie :) ale nie gwarantuje, że zawsze będzie działał. 
+Twój komputer nie wybuchnie :) ale nie gwarantuje, że program zawsze będzie działał. 
